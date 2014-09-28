@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Перевод Нового мира</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_findbible">Поиск по Библии</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_chapter">Главы</string>
+    <string name="title_activity_stix">Стихи</string>
+    <string name="title_activity_show_stix">Выбранный стих</string>
+    <string name="title_activity_find">Поиск по Библии</string>
+    <string name="title_reslut_find_window">Найдено </string>
+    <string name="font_size">Шрифт </string>
+    <string name="menu_find">Поиск по Библии </string>
+    <string name="EvrPis">Еврейские писания </string>
+    <string name="GreekPis">Греческие писания </string>
+    
+    
+    
+    
+
+ 	<string-array name="Evr">
+    		<item>Бытие</item>
+			<item>Исход</item>
+			<item>Левит</item>
+			<item>Числа</item>
+			<item>Второзаконие</item>
+			<item>Иисус Навин</item>
+			<item>Судей</item>
+			<item>Руфь</item>
+			<item>1 Самуила</item>
+			<item>2 Самуила</item>
+			<item>1 Царей</item>
+			<item>2 Царей</item>
+			<item>1 Летопись</item>
+			<item>2 Летопись</item>
+			<item>Ездра</item>
+			<item>Неемия</item>
+			<item>Есфирь</item>
+			<item>Иов</item>
+			<item>Псалмы</item>
+			<item>Притчи</item>
+			<item>Екклезиаст</item>
+			<item>Песнь песней</item>
+			<item>Исаия</item>
+			<item>Иеремия</item>
+			<item>Плач Иеремии</item>
+			<item>Иезекииль</item>
+			<item>Даниил</item>
+			<item>Осия</item>
+			<item>Иоиль</item>
+			<item>Амос</item>
+			<item>Авдий</item>
+			<item>Иона</item>
+			<item>Михей</item>
+			<item>Наум</item>
+			<item>Аввакум</item>
+			<item>Софония</item>
+			<item>Аггей</item>
+			<item>Захария</item>
+			<item>Малахия</item>
+</string-array>
+			
+	<string-array name="Grec">
+	 		<item>Матфея</item>
+			<item>Марка</item>
+			<item>Луки</item>
+			<item>Иоанна</item>
+			<item>Деяния</item>
+			<item>Римлянам</item>
+			<item>1 Коринфянам</item>
+			<item>2 Коринфянам</item>
+			<item>Галатам</item>
+			<item>Ефесянам</item>
+			<item>Филиппийцам</item>
+			<item>Колоссянам</item>
+			<item>1 Фессалоникийцам</item>
+			<item>2 Фессалоникийцам</item>
+			<item>1 Тимофею</item>
+			<item>2 Тимофею</item>
+			<item>Титу</item>
+			<item>Филимону</item>
+			<item>Евреям</item>
+			<item>Иакова</item>
+			<item>1 Петра</item>
+			<item>2 Петра</item>
+			<item>1 Иоанна</item>
+			<item>2 Иоанна</item>
+			<item>3 Иоанна</item>
+			<item>Иуды</item>
+			<item>Откровение</item>
+</string-array>   
+    
+</resources>
